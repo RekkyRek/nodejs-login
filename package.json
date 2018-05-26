@@ -2,6 +2,7 @@
 "name": "sqlclient-login",
 "version": "1.0.0"
 "scripts": {
-  "start": "app.js" }
+    "start": "app.js"
+}
 }
 
